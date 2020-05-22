@@ -1,0 +1,33 @@
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #96d7ff;
+    font-family: Helvetica, sans-serif, serif;
+    text-align: center;
+}
+
+main {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 1em;
+    word-wrap: break-word;
+}
+
+#text-teststring {
+    width: 20em;
+}
+
+.error {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.success {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.failure {
+    color: #dc3545;
+    font-weight: bold;
+}
